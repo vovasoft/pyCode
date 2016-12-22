@@ -1,0 +1,28 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   11.py
+#	new file:   4.10.1.py
+#	new file:   4.10.2.py
+#	new file:   7.18.1.py
+#	new file:   NormalTest.py
+#	new file:   bulletPointAdder.py
+#	new file:   charactorCount.py
+#	new file:   dicBirthdays.py
+#	new file:   exercise.py
+#	new file:   isPhoneNumber.py
+#	new file:   megic8Ball.py
+#	new file:   passingReference.py
+#	new file:   phoneAndEmail.py
+#	new file:   picnicTable.py
+#	new file:   printTable.py
+#	new file:   pw.py
+#	new file:   stringList.py
+#	new file:   ticTacToe.py
+#	new file:   totalBrought.py
+#
+
